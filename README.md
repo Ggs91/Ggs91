@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Georges Atalla
 #### I am a junior Ruby on Rails developer
-![I am a junior Ruby on Rails developer]([![Fdw8qx.md.png](https://iili.io/Fdw8qx.md.png)](https://freeimage.host/i/Fdw8qx))
+![Ruby-lover.png](https://imgshare.io/images/2020/11/08/Ruby-lover.png)
 
 I did an intensive bootcamp at [The Hacking Project](https://www.thehackingproject.org/) and a lot of self-teaching.
 Today I'm seeking my first opportunity
