@@ -3,7 +3,7 @@
 ![Ruby-lover.png](https://imgshare.io/images/2020/11/08/Ruby-lover.png)
 
 I did an intensive bootcamp at [The Hacking Project](https://www.thehackingproject.org/) and a lot of self-teaching.
-Today I'm seeking my first opportunity
+Today I'm seeking my first job opportunity.
 
 
 Skills: Ruby on Rails / JS / HTML / CSS / Webpack
