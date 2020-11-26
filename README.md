@@ -6,7 +6,7 @@ I did an intensive bootcamp at [The Hacking Project](https://www.thehackingproje
 Today I'm seeking my first job opportunity.
 
 
-Skills: Ruby on Rails / JS / HTML / CSS / Webpack
+Skills: Ruby / Ruby on Rails / JS / HTML / CSS / Webpack
 
 - 📫 How to reach me: georges_atalla@hotmail.com 
 - ⚡ Fun fact: I crossed Vietnam with a motorbike that I paid 200 euros and sold for the exact same price 
