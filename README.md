@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Georges Atalla
-#### I am a junior Ruby on Rails developer
+#### I am a Ruby on Rails developer
 ![Ruby-lover.png](https://imgshare.io/images/2020/11/08/Ruby-lover.png)
 
 I did an intensive bootcamp at [The Hacking Project](https://www.thehackingproject.org/) and a lot of self-teaching.
-Today I'm seeking my first job opportunity.
 
+I'm currently working as a Rails developer at The Hacking project.
 
-Skills: Ruby / Ruby on Rails / JS / HTML / CSS / Webpack
+Skills: Ruby / Ruby on Rails / JS / HTML / CSS / Webpack / RSpec
 
 - 📫 How to reach me: georges_atalla@hotmail.fr
 - ⚡ Fun fact: I crossed Vietnam with a motorbike that I paid 200 euros and sold for the exact same price 
