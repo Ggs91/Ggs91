@@ -2,8 +2,6 @@
 #### I am a Ruby on Rails developer
 ![Ruby-lover.png](https://imgshare.io/images/2020/11/08/Ruby-lover.png)
 
-I did an intensive bootcamp at [The Hacking Project](https://www.thehackingproject.org/) and a lot of self-teaching.
-
 I'm currently working as a Rails developer at The Hacking project.
 
 Skills: Ruby / Ruby on Rails / JS / HTML / CSS / Webpack / RSpec
