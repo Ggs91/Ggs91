@@ -4,7 +4,7 @@
 
 I'm currently working as a Rails developer at The Hacking project.
 
-Skills: Ruby / Ruby on Rails / JS / HTML / CSS / Webpack / RSpec
+Skills: Ruby / Ruby on Rails / RSpec / JS / Webpack / HTML / CSS 
 
 - 📫 How to reach me: georges_atalla@hotmail.fr
 - ⚡ Fun fact: I crossed Vietnam with a motorbike that I paid 200 euros and sold for the exact same price 
