@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Georges Atalla
 #### I am a Ruby on Rails developer
 
-Skills: Ruby / Ruby on Rails / RSpec / JS / Webpack / HTML / CSS 
+Skills: Ruby / Ruby on Rails / RSpec / JS / HTML / CSS 
 
 - 📫 How to reach me: georges_atalla@hotmail.fr
 - ⚡ Fun fact: I crossed Vietnam with a motorbike that I paid 200 euros and sold for the exact same price 
